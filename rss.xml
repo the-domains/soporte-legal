@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Soporte Legal]]></title>
         <description><![CDATA[Soporte Legal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/soporte-legal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 22:30:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 22:51:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/soporte-legal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cf1f5cc-4772-4888-87c4-eabe7886b275.png">]]></description>
+            <link>https://thegrid.ai/soporte-legal/el-pasado-28-de-abril-de-2016-la-camara-de-diputados-del-co/index.html</link>
+            <guid isPermaLink="false">c5b06a4f-465c-4b27-ac6a-e164bf1af643</guid>
+            <pubDate>Tue, 10 May 2016 22:51:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3dfed5b-33ea-484f-b125-3025486c15d6.jpg">]]></description>
-            <link>undefinedprevencion-y-defensa-legal-en-casos-de-acoso-escolar-infog/index.html</link>
+            <link>https://thegrid.ai/soporte-legal/prevencion-y-defensa-legal-en-casos-de-acoso-escolar-infog/index.html</link>
             <guid isPermaLink="false">436fd53e-b551-4987-a032-9532c4686de8</guid>
             <pubDate>Tue, 10 May 2016 22:30:16 GMT</pubDate>
         </item>
