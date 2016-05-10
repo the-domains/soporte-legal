@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Soporte Legal]]></title>
+        <description><![CDATA[Soporte Legal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 22:30:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3dfed5b-33ea-484f-b125-3025486c15d6.jpg">]]></description>
+            <link>undefinedprevencion-y-defensa-legal-en-casos-de-acoso-escolar-infog/index.html</link>
+            <guid isPermaLink="false">436fd53e-b551-4987-a032-9532c4686de8</guid>
+            <pubDate>Tue, 10 May 2016 22:30:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
