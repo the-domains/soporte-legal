@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0
-  brandStrength: 0.5
+  brandStrength: 0.8914894
   lightness: 0
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FFFFFB'
+    - '#0F1014'
+    - '#0053A3'
+    - '#C9C0B7'
+    - '#6C6E63'
   rhythmicContrast: 0
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Soporte Legal
+favicon: null
 opengraph:
   image: null
   type: null
